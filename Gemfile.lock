@@ -319,7 +319,7 @@ GEM
     iniparse (1.4.4)
     jaro_winkler (1.5.3)
     jmespath (1.4.0)
-    json (2.2.0)
+    json (2.3.1)
     json-jwt (1.10.2)
       activesupport (>= 4.2)
       aes_key_wrap
